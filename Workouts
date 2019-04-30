@@ -31,9 +31,9 @@ src="https://www.youtube.com/embed/-VS6jgTTYAQ">
     <li><a href="main.html">Main</a></li>
     <li><a href="recipes.html">Food</a></li>
     <li><a href="videos.html">Videos</a></li>
-		<li><a href="meal-prep.html">Meal Prep</a></li>
+		<li><a href="meal prep.html">Meal Prep</a></li>
 		<li><a href="blog.html">Blog/Success Stories</a></li>
-		<li><a href="contact-info.html">Contact Us</a></li>
+		<li><a href="contact info.html">Contact Us</a></li>
   </ul>
 </nav>
 <style>
